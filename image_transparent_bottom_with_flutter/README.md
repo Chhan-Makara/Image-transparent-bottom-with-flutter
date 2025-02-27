@@ -1,16 +1,8 @@
-# image_transparent_bottom_with_flutter
+#image_transparent_bottom_with_flutter
+Flutter Image fade out at bottom (Gradient)
+![Screenshot 2025-02-27 161536](https://github.com/user-attachments/assets/ac9bbbe6-3ca9-4d85-bbfe-e2e2e5e3f07a)
+![Screenshot 2025-02-27 161626](https://github.com/user-attachments/assets/204bfa3d-364d-4513-98f0-8badf79b5445)
+![Screenshot 2025-02-27 161640](https://github.com/user-attachments/assets/3595de5c-096d-4edc-9373-daa078829403)
 
-A new Flutter project.
+https://github.com/user-attachments/assets/132d6df2-3451-4f7a-9b4d-6d5619411c19
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
